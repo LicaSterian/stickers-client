@@ -1,0 +1,15 @@
+#configuratorContainer {
+    margin-top: 50px;
+}
+
+.list-group {
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    border: 0;
+    max-height: 600px;
+}
+
+.list-group-item img {
+    width:80px;
+}

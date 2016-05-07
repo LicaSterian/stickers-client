@@ -1,0 +1,30 @@
+[
+  {
+    name: "lara",
+    path: "assets/stickers/lara.png"
+  },
+  {
+    name: "tree",
+    path: "assets/stickers/tree.png"
+  },
+  {
+    name: "gogo",
+    path: "assets/stickers/gogo.png"
+  },
+  {
+    name: "panda",
+    path: "assets/stickers/panda.png"
+  },
+  {
+    name: "sad",
+    path: "assets/stickers/sad.png"
+  },
+  {
+    name: "heisenberg",
+    path: "assets/stickers/heisenberg.png"
+  },
+  {
+    name: "android",
+    path: "assets/stickers/android.png"
+  }
+]
